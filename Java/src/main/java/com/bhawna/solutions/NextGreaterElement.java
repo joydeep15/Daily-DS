@@ -1,4 +1,8 @@
-class Solution {
+package com.bhawna.solutions;
+
+import java.util.Stack;
+
+public class NextGreaterElement {
     public int[] nextGreaterElements(int[] nums) {
         int next=0;
         int n=nums.length;
