@@ -25,6 +25,14 @@ public class ResolveIP {
         return container;
     }
 
+    /**
+     * This function will generate all IP addresses from the current string. This is a
+     * Backtracking based solution.
+     * @param container container for the solutions
+     * @param current current solution so far
+     * @param idx index of current where we want to decide if we want to place a dot
+     * @param dots number of dots remaining. Valid IPv4 Address has 3 dots
+     */
     private static void restoreIpAddresses(List<String> container, StringBuilder current,int idx, int dots) {
 
         //Base cases
@@ -58,15 +66,21 @@ public class ResolveIP {
 
     }
 
-    public static int parseIP(String s)  {
+    /**
+     * Takes a String octet and convert it into an int.
+     * Returns -1 if not valid octet
+     * @param octet the octet to convert to an int
+     * @return
+     */
+    public static int parseIPOctet(String octet)  {
 
 //        remove prefix 0 like 01, 001
-        if (s.startsWith("0") && s.length() > 1) {
+        if (octet.startsWith("0") && octet.length() > 1) {
             return -1;
         }
 
         try {
-            return Integer.parseInt(s);
+            return Integer.parseInt(octet);
         } catch (NumberFormatException nfe) {
             return -1;
         }
@@ -80,7 +94,7 @@ public class ResolveIP {
 
         int dotsPlaced = 3 - remainingDots;
 
-        int[] octets = Arrays.stream(current.toString().split("\\.")).mapToInt(ResolveIP::parseIP).toArray();
+        int[] octets = Arrays.stream(current.toString().split("\\.")).mapToInt(ResolveIP::parseIPOctet).toArray();
 
         //if the last dot is not placed we verify all octets except the last one
 
