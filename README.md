@@ -1,6 +1,6 @@
 # Daily-DS
 
-> This is a quote. Words full of wisdom that someone important said and can make the reader get inspired
+> Eat. Code. Workout. Repeat
 
 ## Activity Log
 
