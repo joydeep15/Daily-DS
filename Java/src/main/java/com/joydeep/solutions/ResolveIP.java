@@ -100,6 +100,7 @@ public class ResolveIP {
 
         int endIdx;
 
+
         if (dotsPlaced == 3) {
             endIdx = octets.length - 1;
         } else {
