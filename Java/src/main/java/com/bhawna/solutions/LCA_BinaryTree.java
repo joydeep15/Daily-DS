@@ -1,5 +1,7 @@
 package com.bhawna.solutions;
 
+import com.joydeep.utils.tree.TreeNode;
+
 class LCA_BinaryTree {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         if (root==null)
