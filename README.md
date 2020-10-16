@@ -17,5 +17,7 @@
 |13/10/20 | [LCA Of Two Nodes](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Time: **O(n)** <br /> Space: **O(n)** | [Solution](Java/src/main/java/com/bhawna/solutions/LCA_BinaryTree.java) | [Solution](/Java/src/main/java/com/joydeep/solutions/LCA.java) | [Solution](https://github.com/joydeep15/Daily-DS/blob/main/C++/Shubham/13.10.2020%20-%20LCA.cpp) | [Solution](/Java/src/main/java/com/akash/solutions/LCA.java)
 |14/10/20 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |  Time: **O(n)** <br /> Space: **O(n)**  | :hourglass: | [Solution](Java/src/main/java/com/joydeep/solutions/SymmetricTree.java) | [Solution](/Java/src/main/java/com/shubham/solutions/SymmetricTree.java) | [Solution](/Java/src/main/java/com/akash/solutions/SymmetricTree.java)
 |15/10/20 |[Decode String](https://leetcode.com/problems/decode-ways/)|Time: **O(n)** <br /> Space: **O(n)** | :hourglass:| :hourglass:|  :hourglass:|[Solution](/Java/src/main/java/com/akash/solutions/DecodeString.java)
+|16/10/20 |[Number of ways](https://leetcode.com/problems/unique-paths/)|Time: **-** <br /> Space: **-** | :hourglass:| :hourglass:|  :hourglass:|:hourglass:
+
 
 
