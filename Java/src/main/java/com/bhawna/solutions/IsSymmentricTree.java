@@ -1,8 +1,10 @@
 package com.bhawna.solutions;
 
+import com.joydeep.utils.tree.TreeNode;
+
 class IsSymmentricTree {
     
-    public boolean isSymmetricUtil(TreeNode root1,TreeNode root2){
+    public boolean isSymmetricUtil(TreeNode root1, TreeNode root2){
         if(root1==null || root2==null)
         {
             if(root1==null && root2==null)
