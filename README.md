@@ -18,7 +18,7 @@
 |14/10/20 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |  Time: **O(n)** <br /> Space: **O(n)**  | [Solution](Java/src/main/java/com/bhawna/solutions/IsSymmentricTree.java) | [Solution](Java/src/main/java/com/joydeep/solutions/SymmetricTree.java) | [Solution](/Java/src/main/java/com/shubham/solutions/SymmetricTree.java) | [Solution](/Java/src/main/java/com/akash/solutions/SymmetricTree.java)
 |15/10/20 |[Decode String](https://leetcode.com/problems/decode-ways/)|Time: **O(n)** <br /> Space: **O(n)** | [Solution](Java/src/main/java/com/bhawna/solutions/DecodeWays.java)| :hourglass:|  :hourglass:|[Solution](/Java/src/main/java/com/akash/solutions/DecodeString.java)
 |16/10/20 |[Number of ways](https://leetcode.com/problems/unique-paths/)|Time: **O(mn)** <br /> Space: **O(mn)** | [Solution](Java/src/main/java/com/bhawna/solutions/NumWays.java)| :hourglass:|  :hourglass:|:hourglass:
-|18/10/20 |[Find Peak Element](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/801/)|Time: **O(logn)**  <br /> Space:  | :hourglass:| :hourglass:|  :hourglass:|:hourglass:
+|18/10/20 |[Find Peak Element](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/801/)|Time: **O(logn)**  <br /> Space: **O(1)** | [Solution](Java/src/main/java/com/bhawna/solutions/PeakElement.java)| :hourglass:|  :hourglass:|:hourglass:
 
 
 
