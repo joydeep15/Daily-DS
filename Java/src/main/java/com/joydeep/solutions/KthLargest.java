@@ -68,6 +68,13 @@ public class KthLargest {
         return nums[target];
     }
 
+    /**
+     * Quick sort partitioning algorithm
+     * @param nums
+     * @param start
+     * @param end
+     * @return index of partitioning
+     */
     private static int partition(int[] nums, int start, int end) {
 
         int pivot = nums[end];
