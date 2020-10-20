@@ -19,7 +19,7 @@
 |15/10/20 |[Decode String](https://leetcode.com/problems/decode-ways/)|Time: **O(n)** <br /> Space: **O(n)** | [Solution](Java/src/main/java/com/bhawna/solutions/DecodeWays.java)| [Solution](Java/src/main/java/com/joydeep/solutions/DecodeWays.java) |  :hourglass:|[Solution](/Java/src/main/java/com/akash/solutions/DecodeString.java)
 |16/10/20 |[Number of ways](https://leetcode.com/problems/unique-paths/)|Time: **O(mn)** <br /> Space: **O(mn)** | [Solution](Java/src/main/java/com/bhawna/solutions/NumWays.java)| [Solution](Java/src/main/java/com/joydeep/solutions/UniqueWays.java) |  :hourglass:|[Solution](Java/src/main/java/com/akash/solutions/UniquePaths.java)
 |18/10/20 |[Find Peak Element](https://leetcode.com/explore/interview/card/top-interview-questions-medium/110/sorting-and-searching/801/)|Time: **O(logn)**  <br /> Space: **O(1)** | [Solution](Java/src/main/java/com/bhawna/solutions/PeakElement.java)| [Solution](Java/src/main/java/com/bhawna/solutions/PeakElement.java) |  :hourglass:|:hourglass:
-|19/10/20 |[Kth Largest In Unsorted Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Time: **O(n)**  <br /> Space: **O(1)** | :hourglass:| :hourglass:|  :hourglass:|:hourglass:
+|19/10/20 |[Kth Largest In Unsorted Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Time: **O(n)**  <br /> Space: **O(1)** | :hourglass:| [Solution](Java/src/main/java/com/joydeep/solutions/KthLargest.java)|  :hourglass:|:hourglass:
 
 
 
