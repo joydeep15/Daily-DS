@@ -39,7 +39,7 @@ public class KthLargest {
             return -1;
         }
 
-        int target = nums.length - k - 1;
+        int target = nums.length - k ;
 
         int left = 0;
         int right = nums.length - 1;
