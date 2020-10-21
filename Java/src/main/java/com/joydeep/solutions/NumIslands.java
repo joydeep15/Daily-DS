@@ -28,6 +28,7 @@ public class NumIslands {
                 if (visited.contains("" + i + "," + j) || grid[i][j] == '0') {
                     continue;
                 } else {
+                    // we found a 1 which is not visited
                     numIslands++;
                     travel(grid, i, j, visited);
                 }
@@ -45,6 +46,7 @@ public class NumIslands {
             return;
         }
 
+        //visit all connected nodes
         visited.add("" + i + "," + j);
         travel(grid, i, j + 1, visited);
         travel(grid, i, j - 1, visited);
