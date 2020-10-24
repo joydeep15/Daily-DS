@@ -23,7 +23,7 @@
 |19/10/20 |[Kth Largest In Unsorted Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)|Time: **O(n)**  <br /> Space: **O(1)** | :hourglass:| [Solution](Java/src/main/java/com/joydeep/solutions/KthLargest.java)|  :hourglass:|:hourglass:
 |20/10/20 |[Level Order of BinaryTree](https://leetcode.com/problems/binary-tree-level-order-traversal/)|Time: **O(n)**  <br /> Space: **O(h)** | [Solution](Java/src/main/java/com/bhawna/solutions/LevelOrder.java)|[Solution](Java/src/main/java/com/joydeep/solutions/LevelOrder.java)|  :hourglass:|:hourglass:
 |21/10/20 |[Number of Islands](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/792/)| Time: **O(mn)**  <br /> Space: **O(mn)** |[Solution](Java/src/main/java/com/bhawna/solutions/NumIslands.java) | [Solution](Java/src/main/java/com/joydeep/solutions/NumIslands.java)
-|22/10/20 |[Kth Smallest Element in a BST](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/790/)|Time:  <br /> Space:  | |  |
+|22/10/20 |[Kth Smallest Element in a BST](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/790/)|Time: O(k)  <br /> Space: O(1) | [Solution](Java/src/main/java/com/bhawna/solutions/kthSmallestInBST.java)|  |
 
 
 
