@@ -25,6 +25,7 @@
 |21/10/20 |[Number of Islands](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/792/)| Time: **O(mn)**  <br /> Space: **O(mn)** |[Solution](Java/src/main/java/com/bhawna/solutions/NumIslands.java) | [Solution](Java/src/main/java/com/joydeep/solutions/NumIslands.java)
 |22/10/20 |[Kth Smallest Element in a BST](https://leetcode.com/explore/interview/card/top-interview-questions-medium/108/trees-and-graphs/790/)|Time: O(k)  <br /> Space: O(1) | [Solution](Java/src/main/java/com/bhawna/solutions/kthSmallestInBST.java)|  |
 |24/10/20 |[Longest Palindrome Substring](https://leetcode.com/problems/longest-palindromic-substring/)|Time: **O(n^2)**  <br /> Space: **O(1)** | [Solution](Java/src/main/java/com/bhawna/solutions/LongestPalindrome.java) | :hourglass: | :hourglass:| :hourglass:
-|27/10/20 |[Find Running Median](https://leetcode.com/problems/find-median-from-data-stream/)| Time: <br /> Space: | :hourglass: | :hourglass: | :hourglass: | :hourglass: | 
+|26/10/20 |[Find Running Median](https://leetcode.com/problems/find-median-from-data-stream/)| Time: <br /> Space: | :hourglass: | :hourglass: | :hourglass: | :hourglass: |
+|27/10/20 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| Time: <br /> Space: | :hourglass: | :hourglass: | :hourglass: | :hourglass: |
 
 
