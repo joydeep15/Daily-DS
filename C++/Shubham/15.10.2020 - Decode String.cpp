@@ -12,7 +12,7 @@ int decodeString(string s){
         ans[i]=0;
         if(s[i-1]>'0')
             ans[i]=ans[i-1];
-        if(s[i-2]=='1'||s[i-2]<='2'&&s[i-1]<='6')
+        if(s[i-2]=='1'||(s[i-2]=='2'&&s[i-1]<='6'))
             ans[i]+=ans[i-2];
     }
 
