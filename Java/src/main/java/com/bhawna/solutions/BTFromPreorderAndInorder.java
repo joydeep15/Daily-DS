@@ -1,21 +1,10 @@
 package com.bhawna.solutions;
 
-  public class TreeNode {
-      int val;
-      TreeNode left;
-      TreeNode right;
-      TreeNode() {}
-      TreeNode(int val) { this.val = val; }
-      TreeNode(int val, TreeNode left, TreeNode right) {
-          this.val = val;
-          this.left = left;
-          this.right = right;
-      }
-  }
- 
+import com.bhawna.solutions.utils.tree.TreeNode;
+
 class BTFromPreorderAndInorder {
     
-    public TreeNode buildTreeUtil(int[] preorder,int[] inorder,int preStart,int inStart,int inEnd){
+    public TreeNode buildTreeUtil(int[] preorder, int[] inorder, int preStart, int inStart, int inEnd){
         if(preStart>=preorder.length || inStart>inEnd)
             return null;
         int currRoot=preorder[preStart];
