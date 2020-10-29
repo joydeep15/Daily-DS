@@ -16,7 +16,7 @@ public class CoveredIntervals {
         Arrays.sort(intervals, (t0, t1) -> {
             if(t0[0]!=t1[0])
                 return Integer.compare(t0[0], t1[0]);
-            else return Integer.compare(t0[1], t1[1]);
+            else return Integer.compare(t1[1], t0[1]);
         });
 
         int coveredIntervals = 0;
