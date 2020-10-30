@@ -29,4 +29,6 @@
 |27/10/20 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| Time: **O(nlog n)** <br /> Space: **O(n)** | [Solution](Java/src/main/java/com/bhawna/solutions/Skyline.java) | :hourglass: | :hourglass: | :hourglass: |
 |29/10/20 |[Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)| Time: **O(nlog k)** <br /> Space: **O(k)** | [Solution](Java/src/main/java/com/bhawna/solutions/MergeKSortedLists.java) |[Solution](Java/src/main/java/com/joydeep/solutions/MergeKSortedLL.java)| :hourglass: | :hourglass: |
 
+|29/10/20 |[Smallest Sufficient Team](https://leetcode.com/problems/smallest-sufficient-team/)| Time:  <br /> Space:  |  ||  |  |
+
 
