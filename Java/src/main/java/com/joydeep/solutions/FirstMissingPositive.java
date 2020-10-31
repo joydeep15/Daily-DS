@@ -9,6 +9,17 @@ public class FirstMissingPositive {
 
     }
 
+    /**
+     * to do it in constant space, we convert the array into
+     * a hashset
+     * +ve number -> not visited
+     * -ve number -> visited
+     * visit all array indices and mark as visited
+     * last unvisited index is sol
+     * or solution is n+1
+     * @param nums
+     * @return
+     */
     public static int firstMissingPositive(int[] nums) {
 
         int negDivision = shuffleSeg(nums);
@@ -21,7 +32,7 @@ public class FirstMissingPositive {
             n = nums.length;
         }
 
-        for(int i = negDivision + 1; i < nums.length; i++ ){
+        for(int i = lowerBound; i < nums.length; i++ ){
             int val = Math.abs(nums[i]);
             if(val <= n && nums[lowerBound + val - 1] > 0){
                 nums[lowerBound + val - 1] = -nums[lowerBound + val - 1];
@@ -38,6 +49,12 @@ public class FirstMissingPositive {
 
     }
 
+    /**
+     *  this moves all negative and 0's to the beginning of
+     *  the array and returns the index of last negative number
+     * @param nums array
+     * @return the index of last negative or zero idx
+     */
     private static int shuffleSeg(int[] nums){
 
         int neg = -1;
