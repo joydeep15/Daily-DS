@@ -29,6 +29,6 @@
 |27/10/20 |[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/)| Time: **O(nlog n)** <br /> Space: **O(n)** | [Solution](Java/src/main/java/com/bhawna/solutions/Skyline.java) | :hourglass: | [Solution](Java/src/main/java/com/joydeep/solutions/SkylineProblem.java) | :hourglass: |
 |29/10/20 |[Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)| Time: **O(nlog k)** <br /> Space: **O(k)** | [Solution](Java/src/main/java/com/bhawna/solutions/MergeKSortedLists.java) |[Solution](Java/src/main/java/com/joydeep/solutions/MergeKSortedLL.java)| :hourglass: | :hourglass: |
 |30/10/20 |[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)| Time: **O(n)** <br /> Space: **O(1)** |[Solution](Java/src/main/java/com/bhawna/solutions/findSmallestMissingPositive.java)|[Solution](Java/src/main/java/com/joydeep/solutions/FirstMissingPositive.java)|[Solution](Java/src/main/java/com/shubham/solutions/FindMissingPositive.java)|:hourglass:
-|2/11/20 |[LRU Cache](https://leetcode.com/problems/lru-cache/)| Time: **-** <br /> Space: **-** |:hourglass: |:hourglass:|:hourglass:|:hourglass:
+|2/11/20 |[LRU Cache](https://leetcode.com/problems/lru-cache/)| Time: **O(1)** <br /> Space: **O(n)** |:hourglass: |[Solution](Java/src/main/java/com/joydeep/solutions/LRUCache.java) |:hourglass:|:hourglass:
 
 
