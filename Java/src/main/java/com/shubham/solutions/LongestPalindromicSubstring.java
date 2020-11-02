@@ -10,9 +10,9 @@ public class LongestPalindromicSubstring {
         	if(l>maxlen) {
         		maxlen=l;
         		ans=s.substring(i-(l-1)/2, i+l/2 + 1);
-        		System.out.println("Updating..");
-        		System.out.println(maxlen);
-        		System.out.println(ans);
+        		//System.out.println("Updating..");
+        		//System.out.println(maxlen);
+        		//System.out.println(ans);
         	}
         }
 		return ans;

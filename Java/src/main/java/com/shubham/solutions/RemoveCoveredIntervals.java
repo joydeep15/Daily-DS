@@ -1,10 +1,11 @@
 package com.shubham.solutions;
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class RemoveCoveredIntervals {
 	public static int rci(int[][] intervals) {
-		Arrays.sort(intervals,new java.util.Comparator<int[]>() {
+		Arrays.sort(intervals,new Comparator<int[]>() {
 			public int compare(int[] a, int[] b) {
 		   		if(a[0]!=b[0])
 		   			return Integer.compare(a[0], b[0]);
