@@ -1,6 +1,6 @@
 package com.joydeep.solutions;
 
-import com.joydeep.utils.tree.linkedlist.ListNode;
+import com.joydeep.utils.linkedlist.ListNode;
 
 import java.util.ArrayList;
 import java.util.Arrays;

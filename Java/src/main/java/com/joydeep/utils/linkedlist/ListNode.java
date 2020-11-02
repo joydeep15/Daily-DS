@@ -1,4 +1,4 @@
-package com.joydeep.utils.tree.linkedlist;
+package com.joydeep.utils.linkedlist;
 
 public class ListNode {
      public Integer val;
