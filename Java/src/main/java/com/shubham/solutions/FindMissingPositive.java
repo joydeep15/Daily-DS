@@ -11,7 +11,7 @@ public class FindMissingPositive {
         for(int i=0;i<=nums.length;i++)
         	b[i]=false;
         for(int i=0;i<nums.length;i++)
-        	if(nums[i]>0&&nums[i]<nums.length)
+        	if(nums[i]>0&&nums[i]<=nums.length)
         		b[nums[i]]=true;
         for(int i=1;i<=nums.length;i++)
         	if(!b[i])
