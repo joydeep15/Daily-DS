@@ -35,7 +35,7 @@
 |3/11/20 |[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)| Time:  <br /> Space: | :hourglass: |[Solution](Java/src/main/java/com/joydeep/solutions/SudokuSolver.java) |:hourglass:|:hourglass:
 |4/11/20 |[Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/)| Time:  <br /> Space: | :hourglass: |:hourglass: |:hourglass:|:hourglass:
 |6/11/20 |[Valid Tic-Tac-Toe state](https://leetcode.com/problems/valid-tic-tac-toe-state/)| Time: **O(N)** <br /> Space: **O(1)** | :hourglass: |[Solution](Java/src/main/java/com/joydeep/solutions/ValidTicTac.java)|:hourglass:
-|8/11/20 |[ThreeSum](https://leetcode.com/problems/3sum/)| Time: **O(n^2)** <br /> Space: **O(1)** | :hourglass: |[Solution](Java/src/main/java/com/joydeep/solutions/Threesum.java)|:hourglass:
+|7/11/20 |[ThreeSum](https://leetcode.com/problems/3sum/)| Time: **O(n^2)** <br /> Space: **O(1)** | :hourglass: |[Solution](Java/src/main/java/com/joydeep/solutions/Threesum.java)|:hourglass:
 |8/11/20 |[Right Pointer In Tree](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| Time:  <br /> Space:  |  
 
 
